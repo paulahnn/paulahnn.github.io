@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Paul Ahnn's Adventure into the World of CS"
 date: 2014-04-30
 ---
 
