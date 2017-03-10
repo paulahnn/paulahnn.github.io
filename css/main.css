@@ -41,3 +41,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.head { width:100%;}
+.logo {float:left; padding:10px;}
