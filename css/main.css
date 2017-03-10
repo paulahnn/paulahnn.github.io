@@ -42,5 +42,10 @@ ul.posts li {
     list-style: none;
 }
 
-.head { width:100%;}
-.logo {float:left; padding:10px;}
+figure {
+    width: 25%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
