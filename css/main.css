@@ -42,14 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-figure {
-    width: 25%;
-    float: left;
-    margin: 10000;
-    text-align: center;
-    padding: 0;
-}
-
 #img_cont {
   display: table;
   width: 100%;
