@@ -52,8 +52,8 @@ figure {
 
 #img_cont {
   display: table;
-  width: 90%;
-  margin: 30px auto;
+  width: 100%;
+  margin: 10px auto;
 }
 
 #img_cont a {
